@@ -100,7 +100,9 @@ hr {
   border: 0;
   border-bottom: 1px solid var(--overlay-background-color);
 }
-
+h2 {
+  color: red;
+}
 code, pre, samp {
   font-family: var(--fixed-font-family);
   font-size: var(--body-font-size-s);
